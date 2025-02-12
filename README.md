@@ -1,7 +1,7 @@
 # Olá, me chamo Amauri Martins!
 ## Bem vindo ao meu perfil Github👋
 
-- 🔭 Sou auditor da Norma ISO9001 e trabalho a mais de 20 anos comm Controle e Garantia de Qualidade.
+- 🔭 Sou auditor da Norma ISO9001 e trabalho a mais de 20 anos com Controle e Garantia de Qualidade.
 - 🌱 Atualmente estou estudando para migrar para a área de Tecnologia e me tornar um QA.
 - 👯 Eu procurando me aperfeiçoar e estudo praticamente todos os dias.
 - 🤔 Eu a procura de uma oportunidade para inicar profissionalmente na área.
