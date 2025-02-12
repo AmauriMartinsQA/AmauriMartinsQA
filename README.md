@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, me chamo Amauri Martins!
+## Bem vindo ao meu perfil Github👋
 
-<!--
-**AmauriMartinsQA/AmauriMartinsQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Sou auditor da Norma ISO9001 e trabalho a mais de 20 anos comm Controle e Garantia de Qualidade.
+- 🌱 Atualmente estou estudando para migrar para a área de Tecnologia e me tornar um QA.
+- 👯 Eu procurando me aperfeiçoar e estudo praticamente todos os dias.
+- 🤔 Eu a procura de uma oportunidade para inicar profissionalmente na área.
+- 📫 Caso queria entrar em contato comigo, você pode me acionar pelo Linkedin em https://www.linkedin.com/in/amauri-martins-0a952b15b/
+- ⚡ Conte comigo para o que precisar!!!
 
-Here are some ideas to get you started:
+## Estou aprendendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60" height="60" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="60" height="60" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="60" />
+          
+          
+          
+          
+  
+ 
+          
+
+          
